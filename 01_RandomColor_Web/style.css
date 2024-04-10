@@ -1,0 +1,55 @@
+/* https://www.webfx.com/web-design/random-color-picker/#EBB317 */
+
+.nav
+{
+    font-size: 18px;
+    letter-spacing: 1px;
+    position: absolute;
+    font-weight: 700px;
+    top: 20px;
+    left: 20px;
+}
+
+.footer
+{
+    font-weight: 350px;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    position: absolute;
+    bottom: 20px;
+    left: 60%;
+    transform: translate(-50%,-50%);
+    width: 90%;
+}
+
+.connect
+{
+    display: inline-block;
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    height: 27px;
+    font: 700 13px/29px "helvetica Neue",sans-serif;
+    width: 70px;
+    border: 1.5px solid black;
+    padding: 2px 2px;
+    border-radius: 3px;
+}
+
+.connect a
+{
+    text-decoration: none !important;
+    list-style: none;
+    font-style: none;
+    color: black;
+}
+
+.colortxt
+{
+    position: absolute;
+    width: 70% ;
+    margin: 20% auto;
+    font-size: 2rem;
+    letter-spacing: 1px;
+    left: 30%;
+}
